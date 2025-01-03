@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OfficialJoshu
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Kanga School
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Programming.
 - 📫 How to reach me 0794772055
 
